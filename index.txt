@@ -2,14 +2,14 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Jyoti Ranjan Dash
+Jyoti Ranjan Dash
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+jyotiranjan.pvt@gmail.com
 
 Phone
 +1 (213) 352-2795
